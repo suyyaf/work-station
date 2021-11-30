@@ -31,6 +31,9 @@ Using Web App
 //IN-PROGRESS
 1. Add Task is complete but the the List of Task have not been listed properly. If we refresh page, it will load.
 
+//ISSUES
+1. Add Task did not generate Task immediately due to Callback issue. If refreshed after Add Task, Task will list out.
+
 //COMPLETE
 1. User login credentials are saved in a MongoDB server.
 2. User does not share the same work stations & task.
